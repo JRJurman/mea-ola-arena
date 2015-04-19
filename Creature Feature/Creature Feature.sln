@@ -7,6 +7,8 @@ Project("{DBDCEEC3-62EF-61F4-FE50-9E3014AFA551}") = "Creature Feature", "Assembl
 EndProject
 Project("{DBDCEEC3-62EF-61F4-FE50-9E3014AFA551}") = "Creature Feature", "Assembly-CSharp-Editor.csproj", "{7882B4D4-7BAB-12A4-A898-739154AF1761}"
 EndProject
+Project("{DBDCEEC3-62EF-61F4-FE50-9E3014AFA551}") = "Creature Feature", "Assembly-UnityScript-firstpass.unityproj", "{EE367458-934A-56C1-359B-393148D1D378}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,11 +27,15 @@ Global
 		{7882B4D4-7BAB-12A4-A898-739154AF1761}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7882B4D4-7BAB-12A4-A898-739154AF1761}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7882B4D4-7BAB-12A4-A898-739154AF1761}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE367458-934A-56C1-359B-393148D1D378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE367458-934A-56C1-359B-393148D1D378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE367458-934A-56C1-359B-393148D1D378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE367458-934A-56C1-359B-393148D1D378}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-											GlobalSection(MonoDevelopProperties) = preSolution
+																								GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
